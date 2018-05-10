@@ -1,1 +1,36 @@
+h1 {
+    font-family: 'Titan One', cursive;
+    text-align: center;
+    color: purple;
+    background-color: yellowgreen;
+    width: 50%;
+    margin-left: 25%;
+}
 
+body {
+    background-color: burlywood;
+    width: 50%;
+    margin-left: 25%;
+   }
+
+#content {
+    text-align: center;
+    color: red;
+    font-family: 'Pangolin', cursive;
+}
+
+h3 {
+    color: rgb(33, 36, 207);
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+#game {
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 22px;
+    font-weight: bold;
+}
